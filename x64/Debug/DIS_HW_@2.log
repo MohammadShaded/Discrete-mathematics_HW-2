@@ -1,0 +1,4 @@
+﻿  DIS_HW_@2.cpp
+C:\Users\hp-Moon\Desktop\Discrete HW_2\DIS_HW_@2.cpp(89,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp-Moon\Desktop\Discrete HW_2\DIS_HW_@2.cpp(12,18): warning C4101: 'CRes': unreferenced local variable
+  DIS_HW_@2.vcxproj -> C:\Users\hp-Moon\Desktop\Discrete HW_2\x64\Debug\DIS_HW_@2.exe
